@@ -153,7 +153,7 @@ document.write ("<br>以上、お帰りも気を付けて、来年も元気に�
        </body>
    
 </html> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!-- フッタ -->
 <footer>
 Copyright 2020/01/31 Sajyan
