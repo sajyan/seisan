@@ -159,5 +159,6 @@ document.write(str.link("https://sajyan.github.io/seisan/"));
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!-- フッタ -->
 <footer>
-Copyright 2020/01/31 Sajyan
+add the "戻る"
+Copyright 2020/02/18 Sajyan
 </footer>
